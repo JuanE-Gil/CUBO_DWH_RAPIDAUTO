@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CUBO_DWH_RAPIDAUTO", "CUBO_DWH_RAPIDAUTO\CUBO_DWH_RAPIDAUTO.dwproj", "{CD91E0BB-432D-491C-B391-B3D63F1043E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD91E0BB-432D-491C-B391-B3D63F1043E3}.Development|Default.ActiveCfg = Development
+		{CD91E0BB-432D-491C-B391-B3D63F1043E3}.Development|Default.Build.0 = Development
+		{CD91E0BB-432D-491C-B391-B3D63F1043E3}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {702CDB96-45C3-48A9-B234-F7F999FEF8BA}
+	EndGlobalSection
+EndGlobal
